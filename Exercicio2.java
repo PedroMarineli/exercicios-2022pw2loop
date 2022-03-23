@@ -14,6 +14,6 @@ public class Exercicio2 {
         }
         
         
-        System.out.println(vetor[i]);    
+        System.out.println("Maior Valor: " + menorValor);    
     }   
 }
