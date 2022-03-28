@@ -13,7 +13,7 @@ public class Exercicio2 {
             maiorValor = vetor[i];
         }
         
-        System.out.println("Menor Valor: " + maiorValor);   
-        System.out.println("Maior Valor: " + menorValor);    
+        System.out.println("Menor Valor: " + menorValor);   
+        System.out.println("Maior Valor: " + maiorValor);    
     }   
 }
