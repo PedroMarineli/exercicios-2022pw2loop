@@ -10,4 +10,4 @@ três e que se encontram no conjunto dos números de 1 até 500.
 4. Desenvolver um algoritmo que armazene em um vetor 10 valores inteiros (16, 23, 55, 11, 85, 36, 77, 59, 66, 29). Este programa deverá apresentar quais destes números são primos (números que somente são divisíveis por 1 e ele mesmo).
 
 ## Autor
-Nome: 
+Nome: Pedro Henrique Marineli de Oliveira
