@@ -8,10 +8,11 @@ public class Exercicio2 {
             if(vetor[i] < menorValor){
                 menorValor = vetor[i];
             }
-        }
         if(vetor[i] > maiorValor){
             maiorValor = vetor[i];
         }
+        }
+        
         
         System.out.println("Menor Valor: " + menorValor);   
         System.out.println("Maior Valor: " + maiorValor);    
