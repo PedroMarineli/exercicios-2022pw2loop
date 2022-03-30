@@ -1,4 +1,4 @@
-public class exercicio4 {
+public class Exercicio4 {
     public static void main(String[] args){
         int numeros[] = {16, 23, 55, 11, 85, 36, 77, 59, 66, 29};
         
