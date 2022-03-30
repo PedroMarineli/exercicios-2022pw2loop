@@ -13,3 +13,4 @@ public class exercicio3{
           System.out.println(valores[i]);
         }
     }
+}
